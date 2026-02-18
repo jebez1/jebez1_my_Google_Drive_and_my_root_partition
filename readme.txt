@@ -1,4 +1,4 @@
-Since https://support.google.com/drive/thread/407864048/feature-request-google-drive-public-folder-indexed-by-search-engines : still nothing, I created this readme.txt to index some of my interesting files in my Google Drive.
+Since https://support.google.com/drive/thread/407864048/feature-request-google-drive-public-folder-indexed-by-search-engines : still nothing, I created this readme.txt to index by search engines some of my interesting files in my Google Drive.
 
 My Google Drive public folders:
 https://drive.google.com/drive/folders/1pDoa4qb-WOcLY8uI9ZB7fmRL5LICQZqE read-only
