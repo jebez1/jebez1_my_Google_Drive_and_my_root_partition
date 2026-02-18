@@ -14,5 +14,5 @@ How-tos_about_MIDI_&_SCVA.txt (Roland Sound Canvas VA, The default Windows MIDI 
 Also the / partition of my PC (when it's on, not always):
 ftp://[2a01:e0a:c5:b900:44fc:7bfe:e44a:661f]
 to write in the file manager bar
-read-only except /run/media/a/4694649c-5fa4-4af2-ba93-2152a123b361/writable_folder
+read-only except /run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/writable_folder
 by FileZilla Server.
