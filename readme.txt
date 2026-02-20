@@ -19,9 +19,9 @@ etc
 
 Also the / partition of my PC (when it's on, not always):
 ftp://[2a01:e0a:c5:b900:44fc:7bfe:e44a:661f]
-to write in the file manager bar
-read-only except /run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/writable_folder
-by FileZilla Server.
+/run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/writable_folder the only writable folder
+/run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/! the Google Drive public read-only folder
+to write in the file manager bar, by FileZilla Server.
 
 My usernames are also:
 jebez : main, here jebez1 because jebez & jebez0 already taken
