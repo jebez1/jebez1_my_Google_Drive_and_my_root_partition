@@ -23,6 +23,6 @@ to write in the file manager bar
 read-only except /run/media/a/1637320b-b0c7-4f87-8b85-b635dee9595d/writable_folder
 by FileZilla Server.
 
-My username are also:
+My usernames are also:
 jebez : main, here jebez1 because jebez & jebez0 already taken
 ecccc3 : GTA Online & reddit: https://www.reddit.com/r/reddithelp/comments/1oei9xb/how_do_i_change_my_username/ ...
